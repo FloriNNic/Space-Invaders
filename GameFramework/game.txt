@@ -1,0 +1,4 @@
+Player1: 1304.71 602.194
+Player2: 120.788 603.481
+Player1Lives: 3
+Player2Lives: 3
